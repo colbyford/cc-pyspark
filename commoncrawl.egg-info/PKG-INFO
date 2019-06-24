@@ -1,5 +1,5 @@
 Metadata-Version: 1.0
-Name: ccpyspark
+Name: commoncrawl
 Version: 0.0.1
 Summary: Process Common Crawl data with Python and Spark
 Home-page: https://github.com/colbyford/cc-pyspark

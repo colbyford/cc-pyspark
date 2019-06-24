@@ -13,7 +13,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-      name='ccpyspark',
+      name='commoncrawl',
       version='0.0.1',
       description='Process Common Crawl data with Python and Spark',
       long_description=long_description,
