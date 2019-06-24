@@ -1,0 +1,6 @@
+setup.py
+ccpyspark.egg-info/PKG-INFO
+ccpyspark.egg-info/SOURCES.txt
+ccpyspark.egg-info/dependency_links.txt
+ccpyspark.egg-info/requires.txt
+ccpyspark.egg-info/top_level.txt
