@@ -1,0 +1,7 @@
+botocore
+boto3
+ujson
+warcio
+idna
+beautifulsoup4
+lxml
