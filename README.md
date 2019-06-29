@@ -113,6 +113,8 @@ Further inspirations are taken from
 * [cosr-back](//github.com/commonsearch/cosr-back) written by Sylvain Zimmer for [Common Search](https://about.commonsearch.org/). You definitely should have a look at it if you need a more sophisticated WARC processor (including a HTML parser for example).
 * Mark Litwintschik's blog post [Analysing Petabytes of Websites](http://tech.marksblogg.com/petabytes-of-website-data-spark-emr.html)
 
+## Help
+* [Google Group](https://groups.google.com/forum/#!forum/common-crawl)
 
 ## License
 
