@@ -119,3 +119,6 @@ Further inspirations are taken from
 ## License
 
 MIT License, as per [LICENSE](./LICENSE)
+
+## General Python Method
+* [Gist Example](https://gist.github.com/colbyford/be7b86b044dc9f9283e65b52c8a4906b)
